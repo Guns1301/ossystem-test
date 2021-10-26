@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Guns1301/ossystem-test/static/css/main.62d5c4ce.chunk.css",
+    "main.js": "/Guns1301/ossystem-test/static/js/main.dc28bec8.chunk.js",
+    "main.js.map": "/Guns1301/ossystem-test/static/js/main.dc28bec8.chunk.js.map",
+    "runtime-main.js": "/Guns1301/ossystem-test/static/js/runtime-main.5dc40dc2.js",
+    "runtime-main.js.map": "/Guns1301/ossystem-test/static/js/runtime-main.5dc40dc2.js.map",
+    "static/js/2.5847ad75.chunk.js": "/Guns1301/ossystem-test/static/js/2.5847ad75.chunk.js",
+    "static/js/2.5847ad75.chunk.js.map": "/Guns1301/ossystem-test/static/js/2.5847ad75.chunk.js.map",
+    "index.html": "/Guns1301/ossystem-test/index.html",
+    "static/css/main.62d5c4ce.chunk.css.map": "/Guns1301/ossystem-test/static/css/main.62d5c4ce.chunk.css.map",
+    "static/js/2.5847ad75.chunk.js.LICENSE.txt": "/Guns1301/ossystem-test/static/js/2.5847ad75.chunk.js.LICENSE.txt",
+    "static/media/defaultAvatar.7f5b6746.png": "/Guns1301/ossystem-test/static/media/defaultAvatar.7f5b6746.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc40dc2.js",
+    "static/js/2.5847ad75.chunk.js",
+    "static/css/main.62d5c4ce.chunk.css",
+    "static/js/main.dc28bec8.chunk.js"
+  ]
+}
