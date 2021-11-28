@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/Guns1301/ossystem-test/static/css/main.62d5c4ce.chunk.css",
-    "main.js": "/Guns1301/ossystem-test/static/js/main.dc28bec8.chunk.js",
-    "main.js.map": "/Guns1301/ossystem-test/static/js/main.dc28bec8.chunk.js.map",
-    "runtime-main.js": "/Guns1301/ossystem-test/static/js/runtime-main.5dc40dc2.js",
-    "runtime-main.js.map": "/Guns1301/ossystem-test/static/js/runtime-main.5dc40dc2.js.map",
-    "static/js/2.5847ad75.chunk.js": "/Guns1301/ossystem-test/static/js/2.5847ad75.chunk.js",
-    "static/js/2.5847ad75.chunk.js.map": "/Guns1301/ossystem-test/static/js/2.5847ad75.chunk.js.map",
-    "index.html": "/Guns1301/ossystem-test/index.html",
-    "static/css/main.62d5c4ce.chunk.css.map": "/Guns1301/ossystem-test/static/css/main.62d5c4ce.chunk.css.map",
-    "static/js/2.5847ad75.chunk.js.LICENSE.txt": "/Guns1301/ossystem-test/static/js/2.5847ad75.chunk.js.LICENSE.txt",
-    "static/media/defaultAvatar.7f5b6746.png": "/Guns1301/ossystem-test/static/media/defaultAvatar.7f5b6746.png"
+    "main.css": "/ossystem-test/static/css/main.62d5c4ce.chunk.css",
+    "main.js": "/ossystem-test/static/js/main.e63240c7.chunk.js",
+    "main.js.map": "/ossystem-test/static/js/main.e63240c7.chunk.js.map",
+    "runtime-main.js": "/ossystem-test/static/js/runtime-main.6e05ad6f.js",
+    "runtime-main.js.map": "/ossystem-test/static/js/runtime-main.6e05ad6f.js.map",
+    "static/js/2.5dfbc20b.chunk.js": "/ossystem-test/static/js/2.5dfbc20b.chunk.js",
+    "static/js/2.5dfbc20b.chunk.js.map": "/ossystem-test/static/js/2.5dfbc20b.chunk.js.map",
+    "static/js/3.4d77aa58.chunk.js": "/ossystem-test/static/js/3.4d77aa58.chunk.js",
+    "static/js/3.4d77aa58.chunk.js.map": "/ossystem-test/static/js/3.4d77aa58.chunk.js.map",
+    "static/js/4.8873d685.chunk.js": "/ossystem-test/static/js/4.8873d685.chunk.js",
+    "static/js/4.8873d685.chunk.js.map": "/ossystem-test/static/js/4.8873d685.chunk.js.map",
+    "static/js/5.bc487ecd.chunk.js": "/ossystem-test/static/js/5.bc487ecd.chunk.js",
+    "static/js/5.bc487ecd.chunk.js.map": "/ossystem-test/static/js/5.bc487ecd.chunk.js.map",
+    "index.html": "/ossystem-test/index.html",
+    "static/css/main.62d5c4ce.chunk.css.map": "/ossystem-test/static/css/main.62d5c4ce.chunk.css.map",
+    "static/js/2.5dfbc20b.chunk.js.LICENSE.txt": "/ossystem-test/static/js/2.5dfbc20b.chunk.js.LICENSE.txt",
+    "static/js/3.4d77aa58.chunk.js.LICENSE.txt": "/ossystem-test/static/js/3.4d77aa58.chunk.js.LICENSE.txt",
+    "static/js/4.8873d685.chunk.js.LICENSE.txt": "/ossystem-test/static/js/4.8873d685.chunk.js.LICENSE.txt",
+    "static/js/5.bc487ecd.chunk.js.LICENSE.txt": "/ossystem-test/static/js/5.bc487ecd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dc40dc2.js",
-    "static/js/2.5847ad75.chunk.js",
+    "static/js/runtime-main.6e05ad6f.js",
+    "static/js/2.5dfbc20b.chunk.js",
     "static/css/main.62d5c4ce.chunk.css",
-    "static/js/main.dc28bec8.chunk.js"
+    "static/js/main.e63240c7.chunk.js"
   ]
 }
